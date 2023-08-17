@@ -2,7 +2,7 @@
 Run the Xibo Windows client in a Docker container.
 
 # What is in here?
-The `Dockerfile` includes all commands to build a version of (Docker-Wine)[https://hub.docker.com/r/scottyhardy/docker-wine] capable of running the Xibo Windows Player program.
+The `Dockerfile` includes all commands to build a version of [Docker-Wine](https://hub.docker.com/r/scottyhardy/docker-wine) capable of running the Xibo Windows Player program.
 
 Do note that this is still largely a work in progress and I'm by no means a "pro" when it comes to Docker or Wine.
 
