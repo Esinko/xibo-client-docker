@@ -18,7 +18,6 @@ docker build . -t esinko/xibo-client-docker
 ### With X11 forwarding
 ```bash
 docker run -it \
-  --rm \
   --hostname="$(hostname)" \
   --env="DISPLAY" \
   --volume="${XAUTHORITY:-${HOME}/.Xauthority}:/root/.Xauthority:ro" \
