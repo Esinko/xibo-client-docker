@@ -12,7 +12,7 @@ Do note that this is still largely a work in progress and I'm by no means a "pro
 docker build . -t esinko/xibo-client-docker
 ```
 
-# Run it
+## Run it
 *The installer will run automatically. After it has finished, press finish and do not start the player automatically. Otherwise you might encounter issues.*
 
 ### With X11 forwarding
